@@ -1,16 +1,17 @@
-## Hi there 👋
+## boas vindas ao meu perfil!💙
 
-<!--
-**GIZ-3B/GIZ-3B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é geovana
 
-Here are some ideas to get you started:
+-Estou estudando na [alura](www.alura.com.br)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-estou me desenvolvendo na linguagem JavaScript
+
+-utilizo esse espaço para organização e compartilhamento dos meus projetos desenvolvidos
+
+### Você entrar em contato comigo 📫
+
+00001073891033sp@aluno.educacao.sp.gov.br
+
+![](https://media.tenor.com/fVcCLR2YQXUAAAAi/funny-anime.gif)
+
+
